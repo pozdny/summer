@@ -1,0 +1,19 @@
+{
+  "name": "SummerGames2016",
+  "version": "0.0.1",
+  "description": "Summer Games 2016",
+  "authors": [
+    "Valentina Pozdnyakova"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libraries"
+  ],
+  "dependencies": {
+    "framework7": "latest"
+  }
+}
