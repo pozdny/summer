@@ -45,9 +45,9 @@ gulp.task('prejs', function () {
         }))
         .pipe(jshint.reporter('default'))
         .pipe(gulp.dest('app/js'))
-        .pipe(browserSync.reload({
+        /*.pipe(browserSync.reload({
             stream: true
-        }))
+        }))*/
 
 });
 
