@@ -24,5 +24,7 @@
   "-W058": true,
   "-W014": true,
   "-W117": true,
-  "expr": true
+  "expr": true,
+  "-W083": true,
+  "-W100": true
 }
